@@ -3,6 +3,24 @@ I recently implementeda Flask Webserver for my home and implemented APIs to make
 This repository contains a collection of APIs i am creating right now to enhance the functionality of my web home server. 
 These APIs are designed to make your home server more efficient, accessible, and versatile.
 
+## Folder Structure of my server:<br>
+home_server/<br>
+│<br>
+├── app.py                <br>
+│<br>
+├── static/               <br>
+│<br>
+├── templates/            <br>
+│<br>
+├── api1/                 <br>
+│   ├── app.py            <br>
+│   ├── config.py         <br>
+│   ├── static/           <br>
+│   │<br>
+│<br>
+├──...so on for multiple APIs
+
+
 ## Table of Contents
 
 - [APIs](#apis)
