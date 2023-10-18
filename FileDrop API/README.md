@@ -13,6 +13,7 @@ I wanted to have the ability to upload and download files and share them thru mu
 To set up and run this API, make sure to set up your `SECRET_KEY` in the `config.py` file
 Run The API and
 Access the API locally via `http://localhost/`.
+i havent included the frontend i amde for this, as i didnt deem it to be necessary. you can create a frontend for this and make sure that your Flask API has an endpoint (for eg; /list) that provides a list of uploaded files as JSON for the front-end to fetch.
 
 ## Usage
 
