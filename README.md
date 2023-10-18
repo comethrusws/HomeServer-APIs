@@ -1,6 +1,6 @@
 # HomeServer APIs
 I recently implementeda Flask Webserver for my home and implemented APIs to make it more efficient!
-This repository contains a collection of APIs i created to enhance the functionality of my web home server. 
+This repository contains a collection of APIs i am creating right now to enhance the functionality of my web home server. 
 These APIs are designed to make your home server more efficient, accessible, and versatile.
 
 ## Table of Contents
